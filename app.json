@@ -1,0 +1,12 @@
+{
+  "name": "RNrmapi",
+  "displayName": "RNrmapi",
+  "expo": {
+    "name": "RNrmapi",
+    "slug": "RNrmapi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
